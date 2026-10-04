@@ -12,7 +12,7 @@ Public, responsive CV and selected-work portfolio. Built as a lightweight static
 
 ## Evidence And Privacy
 
-Updated 4 October 2026 from Samkelo's existing CVs, local project documentation, implementation files and delivery records. Papzi is described as a deployed TestFlight beta, not a completed public marketplace. Madabukela's public learning interface is shown; learner records and administration screens are not published. The Power BI work is an assignment, not employment at AB InBev. Embedded hardware work is a diagnostic prototype, not a flight-certified product. Online certificates and Forage job simulations are separate from formal education and employment.
+Updated 4 October 2026 from Samkelo's existing CVs, local project documentation, implementation files and delivery records. Institutional election work is supported by the 2025 MUT import/operational records and the co-authored Elangeni election report. USSD implementation and session/billing analysis are included without certification claims. The archived Elangeni interface preview uses sample display data and does not connect to a live election backend. Papzi is described as a deployed TestFlight beta, not a completed public marketplace. Madabukela's public learning interface is shown; learner records and administration screens are not published. The Power BI work is an assignment, not employment at AB InBev. Embedded ESP32/Raspberry Pi hardware work is a diagnostic prototype, not a flight-certified product. Online certificates and Forage job simulations are separate from formal education and employment.
 
 No original private CVs, identity documents, private datasets, client records, access tokens or recruiter correspondence belong in this repository.
 
